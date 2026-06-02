@@ -11,11 +11,20 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Achievements"
-    url: /achievements/
+  - title: "Profile"
+    url: /#profile
+
+  - title: "Research"
+    url: /#interests
+
+  - title: "Projects"
+    url: /#projects
 
   - title: "Publications"
-    url: /publications/
+    url: /#publications
+
+  - title: "Patents"
+    url: /#patents
     
-  - title: "CV"
-    url: /cv/
+  - title: "Manuscripts"
+    url: /#manuscripts
