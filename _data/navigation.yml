@@ -15,7 +15,7 @@ main:
     url: /#profile
 
   - title: "Research"
-    url: /#interests
+    url: /#education
 
   - title: "Projects"
     url: /#projects
