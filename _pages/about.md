@@ -33,25 +33,25 @@ redirect_from:
 <a id="projects"></a>
 
 ## 科研项目
-- 江西省自然科学基金青年项目：物理信息 DeepONet 模型赋能的边坡水力参数概率反分析方法研究 主持
-- 国家资助博士后研究人员计划：水电工程高边坡服役性能演化智能评估方法 主持
-- 水利部水工程建设与安全重点实验室（中国水利水电科学研究院）开放研究基金：物理-数据双驱动下高心墙堆石坝损伤智能诊断及监测系统研究 主持
-- 湖南省研究生重点项目：基于 PINNs 算法的非饱和土路基水分迁移机理研究 主持
-- 国家自然科学基金面上项目：考虑土体参数时空变异性的暴雨诱发边坡失稳机理及动态风险评估研究 参与
-- 江西省重点研发计划项目：复杂条件下滑坡灾害风险智能评估与防控关键技术研究及应用示范 参与
-- 江西省自然科学基金国际科技合作项目：暴雨诱发滑坡数字孪生模型研发及风险智能评估研究 参与 
+- 江西省自然科学基金青年项目：物理信息 DeepONet 模型赋能的边坡水力参数概率反分析方法研究 （主持）
+- 国家资助博士后研究人员计划：水电工程高边坡服役性能演化智能评估方法 （主持）
+- 水利部水工程建设与安全重点实验室（中国水利水电科学研究院）开放研究基金：物理-数据双驱动下高心墙堆石坝损伤智能诊断及监测系统研究 （主持）
+- 湖南省研究生重点项目：基于 PINNs 算法的非饱和土路基水分迁移机理研究 （主持）
+- 国家自然科学基金面上项目：考虑土体参数时空变异性的暴雨诱发边坡失稳机理及动态风险评估研究 （参与）
+- 江西省重点研发计划项目：复杂条件下滑坡灾害风险智能评估与防控关键技术研究及应用示范 （参与）
+- 江西省自然科学基金国际科技合作项目：暴雨诱发滑坡数字孪生模型研发及风险智能评估研究 （参与）
 
 <a id="publications"></a>
 
-## 代表性论文
+## 发表论文（_为指导学生，*为通讯作者）
 
-- Shui-Hua Jiang, Hong-Hu Jie, **Peng Lan***, Jinsong Huang. (2026). Efficient Bayesian inversion of hydraulic parameters for unsaturated soil slopes using a fine-tuned deep operator network. *Computer Methods in Applied Mechanics and Engineering*, 449, 118490. SCI, CAS Q1 Top journal, corresponding author.
-- Zhong Min, Shui-Hua Jiang, Zhi-Ping Deng, **Peng Lan***, Zhilu Chang. (2026). Efficient probabilistic 3D slope stability assessment considering the depth-adjusted non-stationary soil parameters. *Reliability Engineering & System Safety*, 272(Part 2), 112562. SCI, CAS Q1 Top journal.
-- **Peng Lan**, Jinsong Huang, Jingjing Su*, Shuairun Zhu, Jie Chen, Sheng Zhang*. (2025). A rapid unsaturated infiltration prediction method for slope stability analysis considering uncertainties: Deep operator networks. *Engineering Geology*, 347, 107886. SCI, CAS Q1 Top journal.
-- **Peng Lan**, Jingjing Su*, Sheng Zhang*. (2024). Surrogate modeling for unsaturated infiltration via the physics and equality-constrained artificial neural networks. *Journal of Rock Mechanics and Geotechnical Engineering*, 16(6), 2282-2295. SCI, CAS Q1 Top journal.
-- **Peng Lan**, Jingjing Su*, Shuairun Zhu, Jinsong Huang, Sheng Zhang*. (2024). Reconstructing unsaturated infiltration behavior with sparse data via physics-informed deep learning. *Computers and Geotechnics*, 168, 106162. SCI, CAS Q1 Top journal.
-- **Peng Lan**, Jingjing Su*, Xinyan Ma, Sheng Zhang*. (2024). Application of improved physics-informed neural networks for nonlinear consolidation problems with continuous drainage boundary conditions. *Acta Geotechnica*, 19(1), 495-508. SCI, CAS Q1 Top journal.
-- Jingjing Su, Sheng Zhang*, **Peng Lan***, Xiaofeng Chen. (2024). Explorations of certain nonlinear waves of the Boussinesq and Camassa-Holm equations using physics-informed neural networks. *Proceedings of the Royal Society A*, 480(2284), 20230580. SCI, corresponding author.
+- Shui-Hua Jiang, <u>Hong-Hu Jie</u>, **Peng Lan\***, Jinsong Huang. (2026). Efficient Bayesian inversion of hydraulic parameters for unsaturated soil slopes using a fine-tuned deep operator network. *Computer Methods in Applied Mechanics and Engineering*, 449, 118490.
+- <u>Zhong Min</u>, Shui-Hua Jiang, Zhi-Ping Deng\*, **Peng Lan\***, Zhilu Chang. (2026). Efficient probabilistic 3D slope stability assessment considering the depth-adjusted non-stationary soil parameters. *Reliability Engineering & System Safety*, 272(Part 2), 112562.
+- **Peng Lan**, Jinsong Huang, Jingjing Su*, Shuairun Zhu, Jie Chen, Sheng Zhang*. (2025). A rapid unsaturated infiltration prediction method for slope stability analysis considering uncertainties: Deep operator networks. *Engineering Geology*, 347, 107886. 
+- **Peng Lan**, Jingjing Su*, Sheng Zhang*. (2024). Surrogate modeling for unsaturated infiltration via the physics and equality-constrained artificial neural networks. *Journal of Rock Mechanics and Geotechnical Engineering*, 16(6), 2282-2295. 
+- **Peng Lan**, Jingjing Su*, Shuairun Zhu, Jinsong Huang, Sheng Zhang*. (2024). Reconstructing unsaturated infiltration behavior with sparse data via physics-informed deep learning. *Computers and Geotechnics*, 168, 106162. 
+- **Peng Lan**, Jingjing Su*, Xinyan Ma, Sheng Zhang*. (2024). Application of improved physics-informed neural networks for nonlinear consolidation problems with continuous drainage boundary conditions. *Acta Geotechnica*, 19(1), 495-508. 
+- Jingjing Su, Sheng Zhang*, **Peng Lan***, Xiaofeng Chen. (2024). Explorations of certain nonlinear waves of the Boussinesq and Camassa-Holm equations using physics-informed neural networks. *Proceedings of the Royal Society A*, 480(2284), 20230580. 
 - Sheng Zhang, **Peng Lan**, Jingjing Su*. (2021). Wave-packet behaviors of the defocusing nonlinear Schrodinger equation based on the modified physics-informed neural networks. *Chaos*, 31(11). SCI, feature article.
 - Sheng Zhang, **Peng Lan**, Haichao Li, Chenxi Tong, Daichao Sheng. (2022). Physics-informed neural networks for consolidation of soils. *Engineering Computations*, 39(7), 2845-2865. SCI.
 - **兰鹏**, 李海潮, 叶新宇, 张升, 盛岱超. (2021). PINNs算法及其在岩土工程中的应用研究. *岩土工程学报*, 43, 586-592. EI.
@@ -61,17 +61,13 @@ redirect_from:
 - 熊海斌, 余虔, 张升, 童晨曦, **兰鹏**, 刘光庆. (2023). 考虑颗粒破碎的砂土UH模型及其参数反演. *岩土工程学报*, 45(1), 134-143. EI.
 - 尹掀浪, 苏晶晶, 张升, 盛岱超, 何裕龙, 李冉, **兰鹏**. (2025). 基于 PI-DeepONet 算法与稀疏测点数据的两类饱和软土固结行为预测. *铁道科学与工程学报*, 22(10), 4542-4552. EI.
 - Haibin Xiong, Shaoheng Dai, **Peng Lan**, Xuzhen He, Chengxi Tong, Sheng Zhang, Daichao Sheng. (2025). Probabilistic indirect models for undrained shear strength: addressing significant data missing and variability with advanced imputation and machine learning techniques. *Computers and Geotechnics*, 187, 107488. SCI, CAS Q1 Top journal.
+- 邓志平, <u>余厚沅</u>, **兰鹏\***, 潘敏, 孟京京, 蒋水华. 库岸边坡随机场数字图像与时序环境荷载混合深度学习及时变可靠度分析. *岩土力学*.  EI. (已接收)
+- 蒋水华, <u>梁磊</u>, 吕胜才, 谢佳伟, **兰鹏\***. 基于小波分解和多层感知机的谷幅变形预测及其不确定性分析. *工程科学与技术*.  EI. (已接收)
+- Jingjing Meng, <u>Kun Tu</u>, **Peng Lan\***, Shui-Hua Jiang, Jinsong Huang. Artificial neural networks-based surrogate model for predicting the slope stability and large deformation failure consequences. *Geodata and AI*. (已接收)
+- 雷斌, 林天翔, **兰鹏**, 薛景丹, 王鑫焱, 刘学文, 王泳康, 熊进刚. (2017). 一种干垒式再生混凝土生态挡土墙砌块及其施工方法, CN106836274B. 发明专利
+- 蒋水华, 葛成民, 元志镕, 黄河, 常志璐, 万建宏, **兰鹏**. 降雨入渗下非均质土坡渗流稳定分析软件 SSSHSRI V1.0. 软著
 
-<a id="patents"></a>
 
-## 专利与软件著作权
 
-- 雷斌, 林天翔, **兰鹏**, 薛景丹, 王鑫焱, 刘学文, 王泳康, 熊进刚. (2017). 一种干垒式再生混凝土生态挡土墙砌块及其施工方法, CN106836274B. 已授权发明专利，第三完成人。
-- 蒋水华, 葛成民, 元志镕, 黄河, 常志璐, 万建宏, **兰鹏**. 降雨入渗下非均质土坡渗流稳定分析软件 SSSHSRI V1.0. 软著登字第16468818号，中国，登记号：2025SR1812620，授权公开日：2025-09-18。
 
-<a id="manuscripts"></a>
 
-## 在修论文
-
-- 邓志平, 余厚沅, **兰鹏***, 潘敏, 孟京京, 蒋水华. 库岸边坡随机场数字图像与时序环境荷载混合深度学习及时变可靠度分析. *岩土力学*. 返修中，通讯作者。
-- Jingjing Meng, Kun Tu, **Peng Lan***, Shui-Hua Jiang, Jinsong Huang. Artificial neural networks-based surrogate model for predicting the slope stability and large deformation failure consequences. *Geodata and AI*. Under revision, corresponding author.
