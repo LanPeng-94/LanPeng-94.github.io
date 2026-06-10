@@ -25,16 +25,16 @@ redirect_from:
 - 主持江西省自然科学基金青年项目、国家资助博士后研究人员计划、水利部水工程建设与安全重点实验室开放研究基金、中央高校基本科研业务费专项资金等项目，参与国家自然科学基金面上项目、江西省重点研发计划项目及江西省自然科学基金国际科技合作项目。授权中国发明专利1项，登记软件著作权1项。
 
 
-📢📢 <span style="color:red;">我们组当前主要开展**地质灾害风险防控**研究工作，感兴趣可以邮件联系：sjiangaa@ncu.edu.cn和lanpeng@ncu.edu.cn。
+📢📢 <span style="color:red;">我们组当前主要开展**地质灾害风险防控**研究工作，感兴趣可以邮件联系：sjiangaa@ncu.edu.cn和lanpeng@ncu.edu.cn。</span>
 
 <a id="education"></a>
 
 ## 教育经历
 
-2021.09 – 2024.12 | **中南大学** | 工学博士 
-2023.06 – 2024.06 | **纽卡斯尔大学** | 岩土工程 | 联合培养博士 | 导师：黄劲松 
-2018.09 – 2021.06 | **中南大学** | 工学硕士 
-2014.09 – 2018.06 | **南昌大学** | 工学学士 | 保研 
+2021.09 – 2024.12，**中南大学**，工学博士
+2023.06 – 2024.06，**纽卡斯尔大学**，联合培养博士，导师：黄劲松
+2018.09 – 2021.06，**中南大学**，工学硕士
+2014.09 – 2018.06，**南昌大学**，工学学士，保研
 
 
 <a id="projects"></a>
@@ -54,13 +54,13 @@ redirect_from:
 
 - Shui-Hua Jiang, <u>Hong-Hu Jie</u>, **Peng Lan\***, Jinsong Huang. (2026). Efficient Bayesian inversion of hydraulic parameters for unsaturated soil slopes using a fine-tuned deep operator network. *Computer Methods in Applied Mechanics and Engineering*, 449, 118490.
 - <u>Zhong Min</u>, Shui-Hua Jiang, Zhi-Ping Deng\*, **Peng Lan\***, Zhilu Chang. (2026). Efficient probabilistic 3D slope stability assessment considering the depth-adjusted non-stationary soil parameters. *Reliability Engineering & System Safety*, 272(Part 2), 112562.
-- **Peng Lan**, Jinsong Huang, Jingjing Su*, Shuairun Zhu, Jie Chen, Sheng Zhang*. (2025). A rapid unsaturated infiltration prediction method for slope stability analysis considering uncertainties: Deep operator networks. *Engineering Geology*, 347, 107886. 
-- **Peng Lan**, Jingjing Su*, Sheng Zhang*. (2024). Surrogate modeling for unsaturated infiltration via the physics and equality-constrained artificial neural networks. *Journal of Rock Mechanics and Geotechnical Engineering*, 16(6), 2282-2295. 
-- **Peng Lan**, Jingjing Su*, Shuairun Zhu, Jinsong Huang, Sheng Zhang*. (2024). Reconstructing unsaturated infiltration behavior with sparse data via physics-informed deep learning. *Computers and Geotechnics*, 168, 106162. 
-- **Peng Lan**, Jingjing Su*, Xinyan Ma, Sheng Zhang*. (2024). Application of improved physics-informed neural networks for nonlinear consolidation problems with continuous drainage boundary conditions. *Acta Geotechnica*, 19(1), 495-508. 
-- Jingjing Su, Sheng Zhang*, **Peng Lan***, Xiaofeng Chen. (2024). Explorations of certain nonlinear waves of the Boussinesq and Camassa-Holm equations using physics-informed neural networks. *Proceedings of the Royal Society A*, 480(2284), 20230580. 
-- Sheng Zhang, **Peng Lan**, Jingjing Su*. (2021). Wave-packet behaviors of the defocusing nonlinear Schrodinger equation based on the modified physics-informed neural networks. *Chaos*, 31(11). SCI, feature article.
-- Sheng Zhang, **Peng Lan**, Haichao Li, Chenxi Tong, Daichao Sheng. (2022). Physics-informed neural networks for consolidation of soils. *Engineering Computations*, 39(7), 2845-2865. SCI.
+- **Peng Lan**, Jinsong Huang, Jingjing Su\*, Shuairun Zhu, Jie Chen, Sheng Zhang\*. (2025). A rapid unsaturated infiltration prediction method for slope stability analysis considering uncertainties: Deep operator networks. *Engineering Geology*, 347, 107886.
+- **Peng Lan**, Jingjing Su\*, Sheng Zhang\*. (2024). Surrogate modeling for unsaturated infiltration via the physics and equality-constrained artificial neural networks. *Journal of Rock Mechanics and Geotechnical Engineering*, 16(6), 2282-2295.
+- **Peng Lan**, Jingjing Su\*, Shuairun Zhu, Jinsong Huang, Sheng Zhang\*. (2024). Reconstructing unsaturated infiltration behavior with sparse data via physics-informed deep learning. *Computers and Geotechnics*, 168, 106162.
+- **Peng Lan**, Jingjing Su\*, Xinyan Ma, Sheng Zhang\*. (2024). Application of improved physics-informed neural networks for nonlinear consolidation problems with continuous drainage boundary conditions. *Acta Geotechnica*, 19(1), 495-508.
+- Jingjing Su, Sheng Zhang\*, **Peng Lan\***, Xiaofeng Chen. (2024). Explorations of certain nonlinear waves of the Boussinesq and Camassa-Holm equations using physics-informed neural networks. *Proceedings of the Royal Society A*, 480(2284), 20230580.
+- Sheng Zhang, **Peng Lan**, Jingjing Su\*. (2021). Wave-packet behaviors of the defocusing nonlinear Schrodinger equation based on the modified physics-informed neural networks. *Chaos*, 31(11). SCI, feature article.
+- Sheng Zhang, **Peng Lan**, Haichao Li, Chenxi Tong\*, Daichao Sheng. (2022). Physics-informed neural networks for consolidation of soils. *Engineering Computations*, 39(7), 2845-2865. SCI.
 - **兰鹏**, 李海潮, 叶新宇, 张升, 盛岱超. (2021). PINNs算法及其在岩土工程中的应用研究. *岩土工程学报*, 43, 586-592. EI.
 - **兰鹏**, 张升, 苏晶晶. (2024). 改进PINNs算法及其在非线性固结问题中的应用. *应用基础与工程科学学报*, 32(05), 1407-1419. EI.
 - 张升, **兰鹏**, 苏晶晶, 熊海斌. (2023). 基于PINNs算法的地下水渗流模型求解及参数反演. *岩土工程学报*, 45, 376-383. EI.
@@ -69,7 +69,8 @@ redirect_from:
 - 尹掀浪, 苏晶晶, 张升, 盛岱超, 何裕龙, 李冉, **兰鹏**. (2025). 基于 PI-DeepONet 算法与稀疏测点数据的两类饱和软土固结行为预测. *铁道科学与工程学报*, 22(10), 4542-4552. EI.
 - Haibin Xiong, Shaoheng Dai, **Peng Lan**, Xuzhen He, Chengxi Tong, Sheng Zhang, Daichao Sheng. (2025). Probabilistic indirect models for undrained shear strength: addressing significant data missing and variability with advanced imputation and machine learning techniques. *Computers and Geotechnics*, 187, 107488. SCI, CAS Q1 Top journal.
 - 邓志平, <u>余厚沅</u>, **兰鹏\***, 潘敏, 孟京京, 蒋水华. 库岸边坡随机场数字图像与时序环境荷载混合深度学习及时变可靠度分析. *岩土力学*.  EI. (已接收)
-- 蒋水华, <u>梁磊</u>, 吕胜才, 谢佳伟, **兰鹏\***. 基于小波分解和多层感知机的谷幅变形预测及其不确定性分析. *工程科学与技术*.  EI. (已接收)
+- 周创兵, 谢佳伟, 蒋水华, 武威, 兰鹏. 水工岩体三维数字建模与变形稳定智能计算. *岩土力学*.  EI. (已接收)
+- 蒋水华, <u>梁磊</u>, 吕胜才, 谢佳伟, **兰鹏\***. 基于小波分解和多层感知机的谷幅变形预测及其不确定性分析. *中国科学: 技术科学*.  EI. (已接收)
 - Jingjing Meng, <u>Kun Tu</u>, **Peng Lan\***, Shui-Hua Jiang, Jinsong Huang. Artificial neural networks-based surrogate model for predicting the slope stability and large deformation failure consequences. *Geodata and AI*. (已接收)
 - 雷斌, 林天翔, **兰鹏**, 薛景丹, 王鑫焱, 刘学文, 王泳康, 熊进刚. (2017). 一种干垒式再生混凝土生态挡土墙砌块及其施工方法, CN106836274B. 发明专利
 - 蒋水华, 葛成民, 元志镕, 黄河, 常志璐, 万建宏, **兰鹏**. 降雨入渗下非均质土坡渗流稳定分析软件 SSSHSRI V1.0. 软著
