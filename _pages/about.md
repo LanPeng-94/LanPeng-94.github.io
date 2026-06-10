@@ -1,33 +1,40 @@
 ---
-layout: archive
-title: "个人简介"
 permalink: /
+title: ""
+excerpt: ""
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
 
-<a id="profile"></a>
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-## 个人简介
+<span class='anchor' id='about-me'></span>
 
-**兰鹏**，江西省上饶人，现为南昌大学工程建设学院水利工程博士后，合作导师：周创兵院士和蒋水华教授。
+# 👨‍🎓 About Me
+**兰鹏**，男，江西省上饶人，现为南昌大学工程建设学院水利工程博士后，合作导师：[周创兵](https://baike.baidu.com/item/%E5%91%A8%E5%88%9B%E5%85%B5/6475721)院士和[蒋水华](https://teacher.ncu.edu.cn/publish/ncujsh/)教授。
 
-长期从事岩土工程智能分析与风险评估研究，主要围绕非饱和土渗流理论、边坡稳定性分析、地质灾害风险评估及物理信息人工智能方法开展科研工作。以物理信息神经网络、深度算子网络、贝叶斯反分析及不确定性量化等先进方法为技术支撑，重点研究降雨诱发边坡失稳机理、高边坡服役性能演化、土体水力参数概率反演、复杂环境下滑坡灾害风险智能评估以及水工岩土结构安全诊断等关键科学与工程问题。在非饱和渗流代理模型构建、稀疏监测数据反演、边坡可靠度分析及物理机制与数据驱动融合的智能评估方法等方面形成了较为系统的研究基础。
+- 硕博士师从中南大学张升教授和盛岱超教授。长期从事岩土工程智能分析与风险评估研究，主要围绕非饱和土渗流理论、边坡稳定性分析、地质灾害风险评估及物理信息人工智能方法开展科研工作。以物理信息神经网络、深度算子网络、贝叶斯反分析及不确定性量化等先进方法为技术支撑，重点研究降雨诱发边坡失稳机理、高边坡服役性能演化、土体水力参数概率反演、复杂环境下滑坡灾害风险智能评估以及水工岩土结构安全诊断等关键科学与工程问题。在非饱和渗流代理模型构建、稀疏监测数据反演、边坡可靠度分析及物理机制与数据驱动融合的智能评估方法等方面形成了较为系统的研究基础。
+- 已发表学术论文20余篇，以第一作者（含导师一作）或通讯作者身份在 《Computer Methods in Applied Mechanics and Engineering》, 《Reliability Engineering & System Safety》, 《Engineering Geology》, 《Journal of Rock Mechanics and Geotechnical Engineering》, 《Computers and Geotechnics》, 《Acta Geotechnica》, 《Proceedings of the Royal Society A》, 《岩土工程学报》等国内外高水平期刊发表论文。其中，ESI高被引论文1篇，SCI论文累计被引210余次，H-index为6。
+- 主持江西省自然科学基金青年项目、国家资助博士后研究人员计划、水利部水工程建设与安全重点实验室开放研究基金、中央高校基本科研业务费专项资金等项目，参与国家自然科学基金面上项目、江西省重点研发计划项目及江西省自然科学基金国际科技合作项目。授权中国发明专利1项，登记软件著作权1项。
 
-目前，已发表学术论文20余篇，以第一作者（含导师一作）或通讯作者身份在 《Computer Methods in Applied Mechanics and Engineering》, 《Reliability Engineering & System Safety》, 《Engineering Geology》, 《Journal of Rock Mechanics and Geotechnical Engineering》, 《Computers and Geotechnics》, 《Acta Geotechnica》, 《Proceedings of the Royal Society A》, 《岩土工程学报》等国内外高水平期刊发表论文。其中，ESI高被引论文1篇，SCI论文累计被引210余次，H-index为6。主持江西省自然科学基金青年项目、国家资助博士后研究人员计划、水利部水工程建设与安全重点实验室开放研究基金、中央高校基本科研业务费专项资金等项目，参与国家自然科学基金面上项目、江西省重点研发计划项目及江西省自然科学基金国际科技合作项目。授权中国发明专利1项，登记软件著作权1项。
+
+📢📢 <span style="color:red;">我们组当前主要开展**地质灾害风险防控**研究工作，感兴趣可以邮件联系：sjiangaa@ncu.edu.cn和lanpeng@ncu.edu.cn。
 
 <a id="education"></a>
 
 ## 教育经历
 
-| 时间 | 学校 | 学院/专业 | 学位 | 备注 |
-|---|---|---|---|---|
-| 2021.09 – 2024.12 | **中南大学** | 岩土工程 | 博士 | 提前毕业；导师：张升（万人领军）、盛岱超（澳大利亚工程院院士） |
-| 2023.06 – 2024.06 | **纽卡斯尔大学** | 岩土工程 | 联合培养博士 | 导师：黄劲松 |
-| 2018.09 – 2021.06 | **中南大学** | 岩土工程 | 硕士 | 导师：张升（万人领军）、盛岱超（澳大利亚工程院院士） |
-| 2014.09 – 2018.06 | **南昌大学** | 土木工程 | 学士 | 保研 |
+2021.09 – 2024.12 | **中南大学** | 工学博士 
+2023.06 – 2024.06 | **纽卡斯尔大学** | 岩土工程 | 联合培养博士 | 导师：黄劲松 
+2018.09 – 2021.06 | **中南大学** | 工学硕士 
+2014.09 – 2018.06 | **南昌大学** | 工学学士 | 保研 
 
 
 <a id="projects"></a>
