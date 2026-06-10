@@ -67,15 +67,14 @@ redirect_from:
 - Ning Tian, Jian Chen, Ningxi Zhou, **Peng Lan**, Jinsong Huang. (2024). Simplified reliability assessment approach for tunnel structures considering the effects of adjacent excavation and soil uncertainty. *Structures*, 58, 105514. SCI.
 - 熊海斌, 余虔, 张升, 童晨曦, **兰鹏**, 刘光庆. (2023). 考虑颗粒破碎的砂土UH模型及其参数反演. *岩土工程学报*, 45(1), 134-143. EI.
 - 尹掀浪, 苏晶晶, 张升, 盛岱超, 何裕龙, 李冉, **兰鹏**. (2025). 基于 PI-DeepONet 算法与稀疏测点数据的两类饱和软土固结行为预测. *铁道科学与工程学报*, 22(10), 4542-4552. EI.
-- Haibin Xiong, Shaoheng Dai, **Peng Lan**, Xuzhen He, Chengxi Tong, Sheng Zhang, Daichao Sheng. (2025). Probabilistic indirect models for undrained shear strength: addressing significant data missing and variability with advanced imputation and machine learning techniques. *Computers and Geotechnics*, 187, 107488. SCI, CAS Q1 Top journal.
+- Haibin Xiong, Shaoheng Dai, **Peng Lan**, Xuzhen He, Chengxi Tong, Sheng Zhang, Daichao Sheng. (2025). Probabilistic indirect models for undrained shear strength: addressing significant data missing and variability with advanced imputation and machine learning techniques. *Computers and Geotechnics*, 187, 107488.
 - 邓志平, <u>余厚沅</u>, **兰鹏\***, 潘敏, 孟京京, 蒋水华. 库岸边坡随机场数字图像与时序环境荷载混合深度学习及时变可靠度分析. *岩土力学*.  EI. (已接收)
-- 周创兵, 谢佳伟, 蒋水华, 武威, 兰鹏. 水工岩体三维数字建模与变形稳定智能计算. *岩土力学*.  EI. (已接收)
-- 蒋水华, <u>梁磊</u>, 吕胜才, 谢佳伟, **兰鹏\***. 基于小波分解和多层感知机的谷幅变形预测及其不确定性分析. *中国科学: 技术科学*.  EI. (已接收)
+- 周创兵, 谢佳伟, 蒋水华, 武威, 兰鹏. 水工岩体三维数字建模与变形稳定智能计算. *中国科学: 技术科学*.  EI. (已接收)
+- 蒋水华, <u>梁磊</u>, 吕胜才, 谢佳伟, **兰鹏\***. 基于小波分解和多层感知机的谷幅变形预测及其不确定性分析. *工程科学与技术*.  EI. (已接收)
 - Jingjing Meng, <u>Kun Tu</u>, **Peng Lan\***, Shui-Hua Jiang, Jinsong Huang. Artificial neural networks-based surrogate model for predicting the slope stability and large deformation failure consequences. *Geodata and AI*. (已接收)
-- 雷斌, 林天翔, **兰鹏**, 薛景丹, 王鑫焱, 刘学文, 王泳康, 熊进刚. (2017). 一种干垒式再生混凝土生态挡土墙砌块及其施工方法, CN106836274B. 发明专利
-- 蒋水华, 葛成民, 元志镕, 黄河, 常志璐, 万建宏, **兰鹏**. 降雨入渗下非均质土坡渗流稳定分析软件 SSSHSRI V1.0. 软著
-
-
-
+- <u>Hong-Hu Jie</u>, Shui-Hua Jiang\*, **Peng Lan\***, Jinsong Huang. Reliability Engineering & System Safety.  (Revise)
+- **兰鹏**, <u>余厚沅</u>, 蒋水华, 谢佳伟, 孟京京, 张升. 基于深度算子网络的空间变异土体力学行为高效预测方法. *岩土力学*.  (In review)
+- **Peng Lan**, <u>Hou-Yuan Yu</u>, Jiawei Xie, Long Jiang, Shui-Hua Jiang, Jingjing Meng, Jinsong Huang. *Georisk*.  (In review)
+- Zhi-Ping Deng, <u>Hou-Yuan Yu</u>, **Peng Lan**, Min Pan, Shui-Hua Jiang, Jingjing Meng, Jinsong Huang. *Bulletin of Engineering Geology and the Environment*.  (In review)
 
 
