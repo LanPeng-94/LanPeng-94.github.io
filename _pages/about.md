@@ -20,7 +20,7 @@ redirect_from:
 # 👨‍🎓 About Me
 **兰鹏**，男，江西省上饶人，现为南昌大学工程建设学院水利工程博士后，合作导师：[周创兵院士](https://baike.baidu.com/item/%E5%91%A8%E5%88%9B%E5%85%B5/6475721)和[蒋水华教授](https://teacher.ncu.edu.cn/publish/ncujsh/)。
 
-- 硕博士师从中南大学[张升教授](https://faculty.csu.edu.cn/zhangsheng/zh_CN/index.htm)和[盛岱超教授](https://baike.baidu.com/item/%E7%9B%9B%E5%B2%B1%E8%B6%85/7592211)。长期从事岩土工程智能分析与风险评估研究，主要围绕非饱和土渗流理论、边坡稳定性分析、地质灾害风险评估及物理信息人工智能方法开展科研工作。以物理信息神经网络、深度算子网络、贝叶斯反分析及不确定性量化等先进方法为技术支撑，重点研究降雨诱发边坡失稳机理、边坡服役性能演化、土体水力参数反演、复杂环境下滑坡灾害风险智能评估以及水工岩土结构安全诊断等关键科学与工程问题。
+- 硕博师从中南大学[张升教授](https://faculty.csu.edu.cn/zhangsheng/zh_CN/index.htm)和[盛岱超教授](https://baike.baidu.com/item/%E7%9B%9B%E5%B2%B1%E8%B6%85/7592211)。长期从事岩土工程智能分析与风险评估研究，主要围绕非饱和土渗流理论、边坡稳定性分析、地质灾害风险评估及物理信息人工智能方法开展科研工作。以物理信息神经网络、深度算子网络、贝叶斯反分析及不确定性量化等先进方法为技术支撑，重点研究降雨诱发边坡失稳机理、边坡服役性能演化、土体水力参数反演、复杂环境下滑坡灾害风险智能评估以及水工岩土结构安全诊断等关键科学与工程问题。
 - 已发表学术论文20余篇，以第一作者（含导师一作）或通讯作者身份在 《Computer Methods in Applied Mechanics and Engineering》, 《Reliability Engineering & System Safety》, 《Engineering Geology》, 《Journal of Rock Mechanics and Geotechnical Engineering》, 《Computers and Geotechnics》, 《Acta Geotechnica》, 《Proceedings of the Royal Society A》, 《岩土工程学报》等国内外高水平期刊发表论文。其中，ESI高被引论文1篇，SCI论文累计被引210余次，H-index为6。
 - 主持江西省自然科学基金青年项目、国家资助博士后研究人员计划、水利部水工程建设与安全重点实验室开放研究基金、中央高校基本科研业务费专项资金等项目，参与国家自然科学基金面上项目、江西省重点研发计划项目及江西省自然科学基金国际科技合作项目。授权中国发明专利1项，登记软件著作权1项。
 
@@ -69,6 +69,7 @@ redirect_from:
 1. **兰鹏**, 李海潮, 叶新宇, 张升, 盛岱超. (2021). PINNs算法及其在岩土工程中的应用研究. <font color="#0099ff">岩土工程学报</font>, 43, 586-592. EI.
 1. **兰鹏**, 张升, 苏晶晶. (2024). 改进PINNs算法及其在非线性固结问题中的应用. <font color="#0099ff">应用基础与工程科学学报</font>, 32(05), 1407-1419. EI.
 1. 张升, **兰鹏**, 苏晶晶, 熊海斌. (2023). 基于PINNs算法的地下水渗流模型求解及参数反演. <font color="#0099ff">岩土工程学报</font>, 45, 376-383. EI. (导师1作，本人2作)
+1. Shui-Hua Jiang, <u>Hong-Hu Jie</u>, Jiawei Xie, Jianhong Wan, **Peng Lan**, Jinsong Huang. (2026). Bayesian autocorrelation model selection and parameter identification using time-series monitoring data of pore water pressure of the slope under rainfall. <font color="#0099ff">Acta Geotechnica</font>. SCI.
 1. Ning Tian, Jian Chen, Ningxi Zhou, **Peng Lan**, Jinsong Huang. (2024). Simplified reliability assessment approach for tunnel structures considering the effects of adjacent excavation and soil uncertainty. <font color="#0099ff">Structures</font>, 58, 105514. SCI.
 1. 熊海斌, 余虔, 张升, 童晨曦, **兰鹏**, 刘光庆. (2023). 考虑颗粒破碎的砂土UH模型及其参数反演. <font color="#0099ff">岩土工程学报</font>, 45(1), 134-143. EI.
 1. <u>尹掀浪</u>, 苏晶晶, 张升, 盛岱超, 何裕龙, 李冉, **兰鹏**. (2025). 基于 PI-DeepONet 算法与稀疏测点数据的两类饱和软土固结行为预测. <font color="#0099ff">铁道科学与工程学报</font>, 22(10), 4542-4552. EI.
