@@ -28,9 +28,9 @@ redirect_from:
 📢📢 <span style="color:red;">我们组当前主要开展**地质灾害风险防控**研究工作，感兴趣可以邮件联系：sjiangaa@ncu.edu.cn和lanpeng@ncu.edu.cn。</span>
 
 # 🔥 News
-- *2025.06*: 前往上海参加IWGRU2026学术会议，并在大会报告.
-- *2025.06*: 2篇论文被接收.
-- *2025.05*: 前往香港参加5ISMLG学术会议，并在大会报告.
+- *2026.06*: 前往上海参加IWGRU2026学术会议，并在大会报告.
+- *2026.06*: 2篇论文被接收.
+- *2026.05*: 前往香港参加5ISMLG学术会议，并在大会报告.
 
 <a id="education"></a>
 
@@ -79,7 +79,7 @@ redirect_from:
 1. 蒋水华, <u>梁磊</u>, 吕胜才, 谢佳伟, **兰鹏\***. 基于小波分解和多层感知机的谷幅变形预测及其不确定性分析. <font color="#0099ff">工程科学与技术</font>.  EI. (已接收)
 1. Jingjing Meng, <u>Kun Tu</u>, **Peng Lan\***, Shui-Hua Jiang, Jinsong Huang. Artificial neural networks-based surrogate model for predicting the slope stability and large deformation failure consequences. <font color="#0099ff">Geodata and AI</font>. (已接收)
 1. <u>Hong-Hu Jie</u>, Shui-Hua Jiang\*, **Peng Lan\***, Jinsong Huang. <font color="#0099ff">Reliability Engineering & System Safety</font>.  (Revise)
-1. **兰鹏**, <u>余厚沅</u>, 蒋水华, 谢佳伟, 孟京京, 张升. 基于深度算子网络的空间变异土体力学行为高效预测方法. <font color="#0099ff">岩土力学</font>.  (In review)
+1. **兰鹏**, <u>余厚沅</u>, 蒋水华, 谢佳伟, 孟京京, 张升. 基于深度算子网络的空间变异土体力学行为高效预测方法. <font color="#0099ff">岩土力学</font>.  (Revise)
 1. **Peng Lan**, <u>Hou-Yuan Yu</u>, Jiawei Xie, Long Jiang, Shui-Hua Jiang, Jingjing Meng, Jinsong Huang. Development of a CNN-enhanced multi-output deep operator network in predicting geotechnical failure responses considering the soil spatial variability. <font color="#0099ff">Georisk</font>.  (In review)
 1. Zhi-Ping Deng, <u>Hou-Yuan Yu</u>, **Peng Lan\***, Min Pan, Shui-Hua Jiang, Jingjing Meng, Jinsong Huang. RBLA-Net: An efficient deep learning model for time-dependent probabilistic stability analysis of reservoir slope. <font color="#0099ff">Bulletin of Engineering Geology and the Environment</font>.  (In review)
 
