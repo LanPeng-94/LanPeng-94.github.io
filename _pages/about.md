@@ -21,15 +21,15 @@ redirect_from:
 **兰鹏**，男，江西省上饶人，现为南昌大学工程建设学院水利工程博士后，合作导师：[周创兵院士](https://baike.baidu.com/item/%E5%91%A8%E5%88%9B%E5%85%B5/6475721)和[蒋水华教授](https://teacher.ncu.edu.cn/publish/ncujsh/)。
 
 - 硕博师从中南大学[张升教授](https://faculty.csu.edu.cn/zhangsheng/zh_CN/index.htm)和[盛岱超教授](https://baike.baidu.com/item/%E7%9B%9B%E5%B2%B1%E8%B6%85/7592211)。长期从事岩土工程智能分析与风险评估研究，主要围绕非饱和土渗流理论、边坡稳定性分析、地质灾害风险评估及物理信息人工智能方法开展科研工作。以物理信息神经网络、深度算子网络、贝叶斯反分析及不确定性量化等先进方法为技术支撑，重点研究降雨诱发边坡失稳机理、边坡服役性能演化、土体水力参数反演、复杂环境下滑坡灾害风险智能评估以及水工岩土结构安全诊断等关键科学与工程问题。
-- 已发表学术论文20余篇，以第一作者（含导师一作）或通讯作者身份在 《Computer Methods in Applied Mechanics and Engineering》, 《Reliability Engineering & System Safety》, 《Engineering Geology》, 《Journal of Rock Mechanics and Geotechnical Engineering》, 《Computers and Geotechnics》, 《Acta Geotechnica》, 《Proceedings of the Royal Society A》, 《岩土工程学报》等国内外高水平期刊发表论文。其中，ESI高被引论文1篇，SCI论文累计被引210余次，H-index为6。
-- 主持江西省自然科学基金项目（面上+青年）、国家资助博士后研究人员计划、水利部水工程建设与安全重点实验室开放研究基金、中央高校基本科研业务费专项资金等项目，参与国家自然科学基金面上项目、江西省重点研发计划项目及江西省自然科学基金国际科技合作项目。授权中国发明专利1项，登记软件著作权1项。
+- 已发表学术论文20余篇，以第一作者（含导师一作）或通讯作者身份在 《Computer Methods in Applied Mechanics and Engineering》, 《Reliability Engineering & System Safety》, 《Engineering Geology》, 《Journal of Rock Mechanics and Geotechnical Engineering》, 《Computers and Geotechnics》, 《Acta Geotechnica》, 《Chaos》, 《Proceedings of the Royal Society A》, 《岩土工程学报》, 《岩土力学》等国内外高水平期刊发表论文。其中，ESI高被引论文1篇，SCI论文累计被引210余次，H-index为6。
+- 主持国家自然科学基金青年基金项目（C类）、江西省自然科学基金项目（面上+青年）、国家资助博士后研究人员计划、水利部水工程建设与安全重点实验室开放研究基金、中央高校基本科研业务费专项资金等纵向项目，以及江西省地质调查勘查院委托横向课题，参与国家自然科学基金面上项目、江西省重点研发计划项目及江西省自然科学基金国际科技合作项目。授权中国发明专利1项，登记软件著作权1项。
 
 
 📢📢 <span style="color:red;">我们组当前主要开展**地质灾害风险防控**研究工作，感兴趣可以邮件联系：sjiangaa@ncu.edu.cn和lanpeng@ncu.edu.cn。</span>
 
 # 🔥 News
 - *2026.08*: 获批国家自然科学基金青年基金项目（C类）.
-- *2026.08*: 前往韩国首尔参加4FOMLIG.
+- *2026.08*: 前往韩国首尔参加4FOMLIG，并作专题汇报.
 - *2026.07*: 获批江西省自然科学基金面上项目.
 
 <a id="education"></a>
@@ -45,11 +45,12 @@ redirect_from:
 <a id="projects"></a>
 
 ## 🏆 科研项目
-- 国家自然科学基金青年基金项目（C类）（5260090407）：高边坡渗流变形监测信息的物理数据双驱动时空重构方法 （<font face="微软雅黑">主持</font>）
+- 国家自然科学基金青年基金项目（C类）（52609189）：高边坡渗流变形监测信息的物理数据双驱动时空重构方法 （<font face="微软雅黑">主持</font>）
 - 江西省自然科学基金面上项目（20262BAC240190）：融合物理机理的边坡稀疏监测信息增强及稳定性智能评估 （<font face="微软雅黑">主持</font>）
 - 江西省自然科学基金青年项目（20252BAC200634）：物理信息 DeepONet 模型赋能的边坡水力参数概率反分析方法研究 （<font face="微软雅黑">主持</font>）
 - 国家资助博士后研究人员计划（423451）：水电工程高边坡服役性能演化智能评估方法 （<font face="微软雅黑">主持</font>）
 - 水利部水工程建设与安全重点实验室（中国水利水电科学研究院）开放研究基金（IWHR-ENGI-202503）：物理-数据双驱动下高心墙堆石坝损伤智能诊断及监测系统研究 （<font face="微软雅黑">主持</font>）
+- 江西省地质调查勘查院地质环境监测所委托课题（92260268）：基于物理信息深度学习的江西省暴雨诱发滑坡变形行为监控预警研究 （<font face="微软雅黑">主持</font>）
 - 湖南省研究生重点项目（CX20220109）：基于 PINNs 算法的非饱和土路基水分迁移机理研究 （<font face="微软雅黑">主持</font>）
 - 中南大学研究生自主探索创新项目（2020zzts613）（<font face="微软雅黑">主持</font>）
 - 国家自然科学基金面上项目：考虑土体参数时空变异性的暴雨诱发边坡失稳机理及动态风险评估研究 （<font face="微软雅黑">参与</font>）
@@ -82,8 +83,8 @@ redirect_from:
 20. <u>尹掀浪</u>, 苏晶晶, 张升, 盛岱超, 何裕龙, 李冉, **兰鹏**. (2025). 基于 PI-DeepONet 算法与稀疏测点数据的两类饱和软土固结行为预测. <font color="#0099ff">铁道科学与工程学报</font>, 22(10), 4542-4552. [Full-text](https://doi.org/10.19713/j.cnki.43-1423/u.T20250046)
 21. Haibin Xiong, Shaoheng Dai, **Peng Lan**, Xuzhen He, Chengxi Tong, Sheng Zhang, Daichao Sheng. (2025). Probabilistic indirect models for undrained shear strength: addressing significant data missing and variability with advanced imputation and machine learning techniques. <font color="#0099ff">Computers and Geotechnics</font>, 187, 107488. [Full-text](https://doi.org/10.1016/j.compgeo.2025.107488)
 22. 周创兵, 谢佳伟, 蒋水华, 武威, **兰鹏**. 水工岩体三维数字建模与变形稳定智能计算. <font color="#0099ff">中国科学: 技术科学</font>, 2026, 56(7), 1768-1782. [Full-text](https://doi.org/10.1360/SST-2026-0024)
-23. **兰鹏**, <u>余厚沅</u>, 蒋水华, 谢佳伟, 孟京京, 张升. 基于深度算子网络的空间变异土体力学行为高效预测方法. <font color="#0099ff">岩土力学</font>.  (已接收)
-24. <u>胡鸿鹏</u>, 蒋水华, **兰鹏**, 王满玉. (2025). 岩质高边坡开挖位移序贯贝叶斯更新与预测. <font color="#0099ff">工程科学与技术</font>.  (已接收)
+23. <u>胡鸿鹏</u>, 蒋水华, **兰鹏**, 王满玉. (2025). 岩质高边坡开挖位移序贯贝叶斯更新与预测. <font color="#0099ff">工程科学与技术</font>.  [Full-text](https://kns.cnki.net/kcms2/article/abstract?v=sb6TFb_dKpobl28FyjtTxExb-oAXKzq8JujOhF4273ysa7mokT2IXLqtmPFpYji2-w1GgcjcxYkGp7FLQIY-JuPU854kIbSbdBOy0r8m7oR-LMb4d1g59g6jIk0fKuBo2qYLHY50xzWN6i_R_bJ5mDfYnPbUDNSQdZsTT20O27jUG9eFBgxXOw==&uniplatform=NZKPT&language=CHS)
+24. **兰鹏**, <u>余厚沅</u>, 蒋水华, 谢佳伟, 孟京京, 张升. 基于深度算子网络的空间变异地基极限破坏响应高效预测方法. <font color="#0099ff">岩土力学</font>.  (已接收)
 25. **Peng Lan**, <u>Hou-Yuan Yu</u>, Jiawei Xie, Long Jiang, Shui-Hua Jiang, Jingjing Meng, Jinsong Huang. Development of a CNN-enhanced multi-output deep operator network in predicting geotechnical failure responses considering the soil spatial variability. <font color="#0099ff">Georisk</font>.  (Revise)
 26. Zhi-Ping Deng, <u>Hou-Yuan Yu</u>, **Peng Lan\***, Min Pan, Shui-Hua Jiang, Jingjing Meng, Jinsong Huang. RBLA-Net: An efficient deep learning model for time-dependent probabilistic stability analysis of reservoir slope. <font color="#0099ff">Bulletin of Engineering Geology and the Environment</font>.  (Revise)
 27. Jingjing Meng, <u>Chenghuan Li</u>, **Peng Lan\***, Jiawei Xie, Yixian Wang. An improved multi-fidelity neural network for surrogate modeling of mechanical responses of irregularly shaped granular materials. <font color="#0099ff">Computers and Geotechnics</font>.  (Revise)
